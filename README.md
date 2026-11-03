@@ -6,10 +6,10 @@ Before we get into long chats, here are the links to all my GitHub projects, org
 
 If you are looking for my projects in:
 
-- 💻 **Software Development:** https://github.com/orgs/Software-Devlop/repositories
-- 🤖 **Robotics and Embedded Systems:** https://github.com/orgs/Embedded-Systems-Robotics/repositories
-- ⚡ **Electrical and Electronics:** [Electrical & Electronics Projects](https://github.com/Electrical-Electronics-Projects)
-- 📐 **CAD Designs:** https://github.com/orgs/CAD-Lawrenceak/repositories
+- 💻 **Software Development:** [Software Development Projects](https://github.com/orgs/Software-Devlop/repositories)
+- 🤖 **Robotics and Embedded Systems:** [Robotics and Embedded Systems Projects](https://github.com/orgs/Embedded-Systems-Robotics/repositories)
+- ⚡ **Electrical and Electronics:** [Electrical & Electronics Projects](https://github.com/orgs/Electrical-Electronics-Projects/repositories)
+- 📐 **CAD Designs:** [CAD Design Projects](https://github.com/orgs/CAD-Lawrenceak/repositories)
 
 ### 🗂️ How I organize my work
 
